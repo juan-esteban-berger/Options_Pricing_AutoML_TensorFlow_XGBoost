@@ -9,8 +9,6 @@ The models are in the notebook titled '04_Models.ipynb'. The notebook contains t
 ## Neural Network Architecture:
 In this project, we experimented with several neural network architectures, vanilla recurrent neural networks (RNN), vanilla long short-term memory networks (LSTM), 2 layer stacked LSTM, a 4 layer stacked LSTM and bidirectional LSTM networks, and gated recurrent unit networks (GRU). We used Keras, a high-level neural network API that runs on top of TensorFlow, to implement these architectures. Also a decision tree and a gradient booster were also trained with SciKit-Learn and XGBoost respectively.
 
-For the FNN, we used two hidden layers with 64 neurons each, followed by a final output layer with a sigmoid activation function. We used binary cross-entropy as the loss function and the Adam optimizer to minimize the loss.
-
 In terms of MSE the best Neural Network was the Gated Recurrent Unit. The model's architecture consists of a single GRU layer with a variable number of units, defined as a hyperparameter, and an input shape of (20, 6), indicating a sequence of 20 timesteps, each with 6 features.
 
 The dropout layer is then added to reduce overfitting and improve the generalization of the model. The dropout rate is also defined as a hyperparameter with a range from 0.1 to 0.5, in steps of 0.1.
@@ -26,20 +24,6 @@ After hyperparameter tuning, the best model and hyperparameters are obtained fro
 Finally, the best model is saved in an H5 file format for later use.
 
 ## Results
-We evaluated the performance of our models on the validation set by calculating the classification accuracy, which measures the proportion of correctly classified samples. The results are shown in the table below:
-
-Model	Call Accuracy	Put Accuracy
-Decision Tree	90.47%	90.22%
-XGBoost	91.38%	90.65%
-FNN	89.08%	88.45%
-RNN	89.74%	88.94%
-LSTM	90.11%	89.19%
-Bidirectional LSTM	89.66%	88.95%
-GRU	89.67%	88.80%
-2 Layer LSTM	90.62%	89.63%
-4 Layer LSTM	89.97%	88.99%
-Binomial Option Pricing	63.33%	69.33%
-From the results, we can see that the XGBoost model achieved the highest accuracy for both call and put options. The decision tree model also performed well, with an accuracy close to XGBoost. The neural network models, on the other hand, achieved lower accuracy than XGBoost and the decision tree. Among the neural network models, the FNN
 
 ## Comments
 | Model                | MSE          | MAE    | MAPE   |
@@ -53,6 +37,7 @@ From the results, we can see that the XGBoost model achieved the highest accurac
 | 4 Layer LSTM         |   50.885     | 4.710  | 17.585 |
 | Decision Tree        | 60.055       | 4.000  | 5.595  |
 | Binomial Model       | Nan          | Nan    | Nan    |
+
 *The rest of the results can be found in the notebook
 titled '05_Results.ipynb'.*
 
