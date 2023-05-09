@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1683607636 "h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex" "report.pdf" "report" 1683607641 2
+["pdflatex"] 1683607844 "h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex" "report.pdf" "report" 1683607848 2
   "01_midpoint_dist.png" 1683580323 15913 a6232de6f99b95277bb9f4ba61b06aa3 ""
   "02_strike_price_dist.png" 1683580353 15711 1e2c9dc7a2d41877a313e8636794d5a7 ""
   "03_imp_vol_dist.png" 1683580374 15075 c838e6846f4262819e53ddbef13ae288 ""
@@ -102,9 +102,9 @@
   "C:/Users/Juanesh/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1654690828 32329 5d201ab4b4c773e7c876c2a052b07be3 ""
   "C:/Users/Juanesh/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Juanesh/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex" 1683607628 30060 37148986f7f2eb1a9e0b211adfa07f4d ""
-  "report.aux" 1683607640 7407 ae6173a912a5ad74a2523a1cde411496 "pdflatex"
-  "report.out" 1683607640 1355 fcd0cb0fbc1c3361ab1d71ba200a236b "pdflatex"
+  "h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex" 1683607837 29943 85c3d2bebc6e2ff48a443eca05d2d791 ""
+  "report.aux" 1683607847 7407 9af7a1995b3fd69985febf9c0d1bf853 "pdflatex"
+  "report.out" 1683607847 1355 fcd0cb0fbc1c3361ab1d71ba200a236b "pdflatex"
   "report_style.sty" 1683604417 2206 d80a83f59dba17bcd1fb723281398554 ""
   (generated)
   "report.aux"

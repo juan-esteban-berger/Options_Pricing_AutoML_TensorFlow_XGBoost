@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.12)  9 MAY 2023 00:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.12)  9 MAY 2023 00:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -376,56 +376,32 @@ l.44   }
 You need to update your installation of the bundles 'l3kernel' and 'l3packages'.
 Loading\nobreakspace {}siunitx\nobreakspace {}will\nobreakspace {}abort!
 
-)
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:15: Undefined control sequence.
-<recently read> \sisetup 
-                         
-l.15 \sisetup
-             {
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:16: LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16   r
-        ound-mode = places,
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-(C:\Users\Juanesh\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+) (C:\Users\Juanesh\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count306
 \l__pdf_internal_box=\box102
 ) (report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-Package hyperref Info: Link coloring OFF on input line 61.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+Package hyperref Info: Link coloring OFF on input line 55.
 \@outlinefile=\write3
 \openout3 = `report.out'.
 
@@ -451,99 +427,96 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 \c@lstlisting=\count313
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- [1
 
 
-{C:/Users/Juanesh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
-
-]
-
-LaTeX Warning: Citation `ke2019option' on page 2 undefined on input line 75.
+LaTeX Warning: Citation `ke2019option' on page 1 undefined on input line 69.
 
 
-LaTeX Warning: Citation `optionmetrics' on page 2 undefined on input line 75.
+LaTeX Warning: Citation `optionmetrics' on page 1 undefined on input line 69.
 
 
 Underfull \vbox (badness 1178) has occurred while \output is active []
 
 
 
-LaTeX Warning: Citation `malliaris1993beating' on page 2 undefined on input line 77.
+LaTeX Warning: Citation `malliaris1993beating' on page 1 undefined on input line 71.
 
 
-LaTeX Warning: Citation `leRoux2001' on page 2 undefined on input line 77.
+LaTeX Warning: Citation `leRoux2001' on page 1 undefined on input line 71.
 
-[2
+[1{C:/Users/Juanesh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
 
 ]
 
-LaTeX Warning: Citation `mitra2012option' on page 3 undefined on input line 79.
+LaTeX Warning: Citation `mitra2012option' on page 2 undefined on input line 73.
 
 
-LaTeX Warning: Citation `can2014nonparametric' on page 3 undefined on input line 79.
+LaTeX Warning: Citation `can2014nonparametric' on page 2 undefined on input line 73.
 
 
-LaTeX Warning: Citation `ruf2020neural' on page 3 undefined on input line 79.
+LaTeX Warning: Citation `ruf2020neural' on page 2 undefined on input line 73.
 
 
-LaTeX Warning: Reference `table:financialdata' on page 3 undefined on input line 83.
+LaTeX Warning: Reference `table:financialdata' on page 2 undefined on input line 77.
 
 
-LaTeX Warning: Hyper reference `sec:appendix' on page 3 undefined on input line 83.
+LaTeX Warning: Hyper reference `sec:appendix' on page 2 undefined on input line 77.
 
-[3] (C:\Users\Juanesh\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+[2] (C:\Users\Juanesh\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 106.
- [4]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 100.
+ [3]
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <8> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 138.
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 132.
 
 
-LaTeX Warning: Reference `table:modelcomparison_mae' on page 5 undefined on input line 217.
+LaTeX Warning: Reference `table:modelcomparison_mae' on page 4 undefined on input line 211.
 
 
-LaTeX Warning: Reference `table:modelcomparison_mape' on page 5 undefined on input line 217.
+LaTeX Warning: Reference `table:modelcomparison_mape' on page 4 undefined on input line 211.
 
 
-LaTeX Warning: Reference `fig:AE' on page 5 undefined on input line 254.
+LaTeX Warning: Reference `fig:AE' on page 4 undefined on input line 248.
 
 
-LaTeX Warning: Reference `fig:APE' on page 5 undefined on input line 254.
+LaTeX Warning: Reference `fig:APE' on page 4 undefined on input line 248.
 
 
-LaTeX Warning: Reference `table:modelcomparison_mae_filt' on page 5 undefined on input line 254.
+LaTeX Warning: Reference `table:modelcomparison_mae_filt' on page 4 undefined on input line 248.
 
 
-LaTeX Warning: Reference `table:modelcomparison_mape_filt' on page 5 undefined on input line 254.
+LaTeX Warning: Reference `table:modelcomparison_mape_filt' on page 4 undefined on input line 248.
 
-[5]
-<AE.png, id=133, 518.1759pt x 564.4287pt>
+[4]
+<AE.png, id=129, 518.1759pt x 564.4287pt>
 File: AE.png Graphic file (type png)
 <use AE.png>
-Package pdftex.def Info: AE.png  used on input line 260.
+Package pdftex.def Info: AE.png  used on input line 254.
 (pdftex.def)             Requested size: 234.8775pt x 255.84224pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<APE.png, id=135, 518.1759pt x 564.4287pt>
+<APE.png, id=131, 518.1759pt x 564.4287pt>
 File: APE.png Graphic file (type png)
 <use APE.png>
-Package pdftex.def Info: APE.png  used on input line 267.
+Package pdftex.def Info: APE.png  used on input line 261.
 (pdftex.def)             Requested size: 234.8775pt x 255.84224pt.
- [6 <./AE.png> <./APE.png>]
-Underfull \hbox (badness 1077) in paragraph at lines 313--314
+ [5 <./AE.png> <./APE.png>]
+Underfull \hbox (badness 1077) in paragraph at lines 307--308
 \OT1/cmr/m/n/10 graduate-level courses at the Uni-ver-sity of Notre
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 313--314
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
 \OT1/cmtt/m/n/10 juan-[]esteban-[]berger / Options _ Pricing _ with _
  []
 
-[7]
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:371: Undefined control sequence.
-l.371 count & \num
+[6]
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:365: Undefined control sequence.
+l.365 count & \num
                   {10750890} & \num{10750890} & \num{10750890} & \num{107508...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -551,8 +524,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:371: Undefined control sequence.
-l.371 count & \num{10750890} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:365: Undefined control sequence.
+l.365 count & \num{10750890} & \num
                                    {10750890} & \num{10750890} & \num{107508...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -560,8 +533,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:371: Undefined control sequence.
-l.371 ... & \num{10750890} & \num{10750890} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:365: Undefined control sequence.
+l.365 ... & \num{10750890} & \num{10750890} & \num
                                                   {10750890} & \num{10750890...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -569,8 +542,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:371: Undefined control sequence.
-l.371 ... & \num{10750890} & \num{10750890} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:365: Undefined control sequence.
+l.365 ... & \num{10750890} & \num{10750890} & \num
                                                   {10750890} & \num{10750890...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -578,8 +551,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:371: Undefined control sequence.
-l.371 ... & \num{10750890} & \num{10750890} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:365: Undefined control sequence.
+l.365 ... & \num{10750890} & \num{10750890} & \num
                                                   {10750890} & \num{10750890}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -587,8 +560,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:371: Undefined control sequence.
-l.371 ... & \num{10750890} & \num{10750890} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:365: Undefined control sequence.
+l.365 ... & \num{10750890} & \num{10750890} & \num
                                                   {10750890}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -596,8 +569,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:372: Undefined control sequence.
-l.372 mean & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:366: Undefined control sequence.
+l.366 mean & \num
                  {128.88} & \num{1369.92} & \num{0.51} & \num{2.90} & \num{2...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -605,8 +578,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:372: Undefined control sequence.
-l.372 mean & \num{128.88} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:366: Undefined control sequence.
+l.366 mean & \num{128.88} & \num
                                 {1369.92} & \num{0.51} & \num{2.90} & \num{2...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -614,8 +587,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:372: Undefined control sequence.
-l.372 mean & \num{128.88} & \num{1369.92} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:366: Undefined control sequence.
+l.366 mean & \num{128.88} & \num{1369.92} & \num
                                                 {0.51} & \num{2.90} & \num{2...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -623,8 +596,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:372: Undefined control sequence.
-l.372 ...8.88} & \num{1369.92} & \num{0.51} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:366: Undefined control sequence.
+l.366 ...8.88} & \num{1369.92} & \num{0.51} & \num
                                                   {2.90} & \num{2.36} & \num...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -632,8 +605,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:372: Undefined control sequence.
-l.372 ...1369.92} & \num{0.51} & \num{2.90} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:366: Undefined control sequence.
+l.366 ...1369.92} & \num{0.51} & \num{2.90} & \num
                                                   {2.36} & \num{0.59}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -641,8 +614,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:372: Undefined control sequence.
-l.372 ...um{0.51} & \num{2.90} & \num{2.36} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:366: Undefined control sequence.
+l.366 ...um{0.51} & \num{2.90} & \num{2.36} & \num
                                                   {0.59}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -650,8 +623,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:373: Undefined control sequence.
-l.373 std & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:367: Undefined control sequence.
+l.367 std & \num
                 {306.93} & \num{2406.36} & \num{0.44} & \num{1.997617} & \nu...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -659,8 +632,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:373: Undefined control sequence.
-l.373 std & \num{306.93} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:367: Undefined control sequence.
+l.367 std & \num{306.93} & \num
                                {2406.36} & \num{0.44} & \num{1.997617} & \nu...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -668,8 +641,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:373: Undefined control sequence.
-l.373 std & \num{306.93} & \num{2406.36} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:367: Undefined control sequence.
+l.367 std & \num{306.93} & \num{2406.36} & \num
                                                {0.44} & \num{1.997617} & \nu...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -677,8 +650,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:373: Undefined control sequence.
-l.373 ...6.93} & \num{2406.36} & \num{0.44} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:367: Undefined control sequence.
+l.367 ...6.93} & \num{2406.36} & \num{0.44} & \num
                                                   {1.997617} & \num{2.04} & ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -686,8 +659,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:373: Undefined control sequence.
-l.373 ....36} & \num{0.44} & \num{1.997617} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:367: Undefined control sequence.
+l.367 ....36} & \num{0.44} & \num{1.997617} & \num
                                                   {2.04} & \num{0.53}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -695,8 +668,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:373: Undefined control sequence.
-l.373 ....44} & \num{1.997617} & \num{2.04} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:367: Undefined control sequence.
+l.367 ....44} & \num{1.997617} & \num{2.04} & \num
                                                   {0.53}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -704,8 +677,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:374: Undefined control sequence.
-l.374 min & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:368: Undefined control sequence.
+l.368 min & \num
                 {0.015} & \num{5} & \num{0.0112} & \num{0.2935} & \num{0.000...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -713,8 +686,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:374: Undefined control sequence.
-l.374 min & \num{0.015} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:368: Undefined control sequence.
+l.368 min & \num{0.015} & \num
                               {5} & \num{0.0112} & \num{0.2935} & \num{0.000...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -722,8 +695,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:374: Undefined control sequence.
-l.374 min & \num{0.015} & \num{5} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:368: Undefined control sequence.
+l.368 min & \num{0.015} & \num{5} & \num
                                         {0.0112} & \num{0.2935} & \num{0.000...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -731,8 +704,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:374: Undefined control sequence.
-l.374 ...um{0.015} & \num{5} & \num{0.0112} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:368: Undefined control sequence.
+l.368 ...um{0.015} & \num{5} & \num{0.0112} & \num
                                                   {0.2935} & \num{0.000107} ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -740,8 +713,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:374: Undefined control sequence.
-l.374 ...m{5} & \num{0.0112} & \num{0.2935} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:368: Undefined control sequence.
+l.368 ...m{5} & \num{0.0112} & \num{0.2935} & \num
                                                   {0.000107} & \num{0.00274}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -749,8 +722,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:374: Undefined control sequence.
-l.374 ...2} & \num{0.2935} & \num{0.000107} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:368: Undefined control sequence.
+l.368 ...2} & \num{0.2935} & \num{0.000107} & \num
                                                   {0.00274}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -758,8 +731,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:375: Undefined control sequence.
-l.375 25\% & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:369: Undefined control sequence.
+l.369 25\% & \num
                  {6.5} & \num{275} & \num{0.2354} & \num{1.29} & \num{1.27} ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -767,8 +740,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:375: Undefined control sequence.
-l.375 25\% & \num{6.5} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:369: Undefined control sequence.
+l.369 25\% & \num{6.5} & \num
                              {275} & \num{0.2354} & \num{1.29} & \num{1.27} ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -776,8 +749,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:375: Undefined control sequence.
-l.375 25\% & \num{6.5} & \num{275} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:369: Undefined control sequence.
+l.369 25\% & \num{6.5} & \num{275} & \num
                                          {0.2354} & \num{1.29} & \num{1.27} ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -785,8 +758,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:375: Undefined control sequence.
-l.375 ...um{6.5} & \num{275} & \num{0.2354} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:369: Undefined control sequence.
+l.369 ...um{6.5} & \num{275} & \num{0.2354} & \num
                                                   {1.29} & \num{1.27} & \num...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -794,8 +767,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:375: Undefined control sequence.
-l.375 ...m{275} & \num{0.2354} & \num{1.29} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:369: Undefined control sequence.
+l.369 ...m{275} & \num{0.2354} & \num{1.29} & \num
                                                   {1.27} & \num{0.2163}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -803,8 +776,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:375: Undefined control sequence.
-l.375 ...{0.2354} & \num{1.29} & \num{1.27} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:369: Undefined control sequence.
+l.369 ...{0.2354} & \num{1.29} & \num{1.27} & \num
                                                   {0.2163}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -812,8 +785,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:376: Undefined control sequence.
-l.376 50\% & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:370: Undefined control sequence.
+l.370 50\% & \num
                  {32} & \num{620} & \num{0.3669} & \num{2.21} & \num{1.88} &...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -821,8 +794,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:376: Undefined control sequence.
-l.376 50\% & \num{32} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:370: Undefined control sequence.
+l.370 50\% & \num{32} & \num
                             {620} & \num{0.3669} & \num{2.21} & \num{1.88} &...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -830,8 +803,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:376: Undefined control sequence.
-l.376 50\% & \num{32} & \num{620} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:370: Undefined control sequence.
+l.370 50\% & \num{32} & \num{620} & \num
                                         {0.3669} & \num{2.21} & \num{1.88} &...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -839,8 +812,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:376: Undefined control sequence.
-l.376 ...num{32} & \num{620} & \num{0.3669} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:370: Undefined control sequence.
+l.370 ...num{32} & \num{620} & \num{0.3669} & \num
                                                   {2.21} & \num{1.88} & \num...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -848,8 +821,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:376: Undefined control sequence.
-l.376 ...m{620} & \num{0.3669} & \num{2.21} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:370: Undefined control sequence.
+l.370 ...m{620} & \num{0.3669} & \num{2.21} & \num
                                                   {1.88} & \num{0.5202}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -857,8 +830,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:376: Undefined control sequence.
-l.376 ...{0.3669} & \num{2.21} & \num{1.88} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:370: Undefined control sequence.
+l.370 ...{0.3669} & \num{2.21} & \num{1.88} & \num
                                                   {0.5202}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -866,8 +839,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:377: Undefined control sequence.
-l.377 75\% & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:371: Undefined control sequence.
+l.371 75\% & \num
                  {112.1} & \num{1495} & \num{0.6167} & \num{4.58} & \num{2.5...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -875,8 +848,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:377: Undefined control sequence.
-l.377 75\% & \num{112.1} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:371: Undefined control sequence.
+l.371 75\% & \num{112.1} & \num
                                {1495} & \num{0.6167} & \num{4.58} & \num{2.5...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -884,8 +857,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:377: Undefined control sequence.
-l.377 75\% & \num{112.1} & \num{1495} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:371: Undefined control sequence.
+l.371 75\% & \num{112.1} & \num{1495} & \num
                                             {0.6167} & \num{4.58} & \num{2.5...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -893,8 +866,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:377: Undefined control sequence.
-l.377 ...112.1} & \num{1495} & \num{0.6167} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:371: Undefined control sequence.
+l.371 ...112.1} & \num{1495} & \num{0.6167} & \num
                                                   {4.58} & \num{2.54} & \num...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -902,8 +875,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:377: Undefined control sequence.
-l.377 ...{1495} & \num{0.6167} & \num{4.58} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:371: Undefined control sequence.
+l.371 ...{1495} & \num{0.6167} & \num{4.58} & \num
                                                   {2.54} & \num{0.7392}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -911,8 +884,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:377: Undefined control sequence.
-l.377 ...{0.6167} & \num{4.58} & \num{2.54} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:371: Undefined control sequence.
+l.371 ...{0.6167} & \num{4.58} & \num{2.54} & \num
                                                   {0.7392}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -920,8 +893,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:378: Undefined control sequence.
-l.378 max & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:372: Undefined control sequence.
+l.372 max & \num
                 {13267} & \num{21500} & \num{2.99999} & \num{7.63} & \num{14...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -929,8 +902,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:378: Undefined control sequence.
-l.378 max & \num{13267} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:372: Undefined control sequence.
+l.372 max & \num{13267} & \num
                               {21500} & \num{2.99999} & \num{7.63} & \num{14...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -938,8 +911,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:378: Undefined control sequence.
-l.378 max & \num{13267} & \num{21500} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:372: Undefined control sequence.
+l.372 max & \num{13267} & \num{21500} & \num
                                             {2.99999} & \num{7.63} & \num{14...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -947,8 +920,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:378: Undefined control sequence.
-l.378 ...267} & \num{21500} & \num{2.99999} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:372: Undefined control sequence.
+l.372 ...267} & \num{21500} & \num{2.99999} & \num
                                                   {7.63} & \num{147.35} & \n...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -956,8 +929,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:378: Undefined control sequence.
-l.378 ...1500} & \num{2.99999} & \num{7.63} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:372: Undefined control sequence.
+l.372 ...1500} & \num{2.99999} & \num{7.63} & \num
                                                   {147.35} & \num{4.7967}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -965,8 +938,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:378: Undefined control sequence.
-l.378 ...99999} & \num{7.63} & \num{147.35} & \num
+h:/My Drive/Notre Dame/Spring 2023/ACMS 80695/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters/latex_files/report.tex:372: Undefined control sequence.
+l.372 ...99999} & \num{7.63} & \num{147.35} & \num
                                                   {4.7967}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -974,48 +947,48 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-<01_midpoint_dist.png, id=170, 425.6703pt x 315.8199pt>
+<01_midpoint_dist.png, id=165, 425.6703pt x 315.8199pt>
 File: 01_midpoint_dist.png Graphic file (type png)
 <use 01_midpoint_dist.png>
-Package pdftex.def Info: 01_midpoint_dist.png  used on input line 386.
+Package pdftex.def Info: 01_midpoint_dist.png  used on input line 380.
 (pdftex.def)             Requested size: 234.8775pt x 174.2653pt.
-<02_strike_price_dist.png, id=171, 431.4519pt x 315.8199pt>
+<02_strike_price_dist.png, id=166, 431.4519pt x 315.8199pt>
 File: 02_strike_price_dist.png Graphic file (type png)
 <use 02_strike_price_dist.png>
-Package pdftex.def Info: 02_strike_price_dist.png  used on input line 393.
+Package pdftex.def Info: 02_strike_price_dist.png  used on input line 387.
 (pdftex.def)             Requested size: 234.8775pt x 171.93289pt.
-<03_imp_vol_dist.png, id=172, 425.6703pt x 315.8199pt>
+<03_imp_vol_dist.png, id=167, 425.6703pt x 315.8199pt>
 File: 03_imp_vol_dist.png Graphic file (type png)
 <use 03_imp_vol_dist.png>
-Package pdftex.def Info: 03_imp_vol_dist.png  used on input line 402.
+Package pdftex.def Info: 03_imp_vol_dist.png  used on input line 396.
 (pdftex.def)             Requested size: 234.8775pt x 174.2653pt.
-<04_zero_coupon_dist.png, id=173, 432.1746pt x 312.2064pt>
+<04_zero_coupon_dist.png, id=168, 432.1746pt x 312.2064pt>
 File: 04_zero_coupon_dist.png Graphic file (type png)
 <use 04_zero_coupon_dist.png>
-Package pdftex.def Info: 04_zero_coupon_dist.png  used on input line 409.
+Package pdftex.def Info: 04_zero_coupon_dist.png  used on input line 403.
 (pdftex.def)             Requested size: 234.8775pt x 169.67511pt.
 
 Underfull \vbox (badness 7944) has occurred while \output is active []
 
- [8
+ [7
 
  <./01_midpoint_dist.png> <./02_strike_price_dist.png> <./03_imp_vol_dist.png> <./04_zero_coupon_dist.png>]
-<05_div_yield_dist.png, id=188, 431.4519pt x 315.8199pt>
+<05_div_yield_dist.png, id=184, 431.4519pt x 315.8199pt>
 File: 05_div_yield_dist.png Graphic file (type png)
 <use 05_div_yield_dist.png>
-Package pdftex.def Info: 05_div_yield_dist.png  used on input line 420.
+Package pdftex.def Info: 05_div_yield_dist.png  used on input line 414.
 (pdftex.def)             Requested size: 234.8775pt x 171.93289pt.
-<06_time_dist.png, id=189, 431.4519pt x 315.8199pt>
+<06_time_dist.png, id=185, 431.4519pt x 315.8199pt>
 File: 06_time_dist.png Graphic file (type png)
 <use 06_time_dist.png>
-Package pdftex.def Info: 06_time_dist.png  used on input line 427.
+Package pdftex.def Info: 06_time_dist.png  used on input line 421.
 (pdftex.def)             Requested size: 234.8775pt x 171.93289pt.
-<07_opt_type_dist.png, id=190, 400.3758pt x 323.7696pt>
+<07_opt_type_dist.png, id=186, 400.3758pt x 323.7696pt>
 File: 07_opt_type_dist.png Graphic file (type png)
 <use 07_opt_type_dist.png>
-Package pdftex.def Info: 07_opt_type_dist.png  used on input line 436.
+Package pdftex.def Info: 07_opt_type_dist.png  used on input line 430.
 (pdftex.def)             Requested size: 234.8775pt x 189.94048pt.
- [9 <./05_div_yield_dist.png> <./06_time_dist.png> <./07_opt_type_dist.png>] (report.aux)
+ [8 <./05_div_yield_dist.png> <./06_time_dist.png> <./07_opt_type_dist.png>] (report.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1032,17 +1005,17 @@ Package rerunfilecheck Info: Checksums for `report.out':
 (rerunfilecheck)             After:  FCD0CB0FBC1C3361AB1D71BA200A236B;1355.
  ) 
 Here is how much of TeX's memory you used:
- 13157 strings out of 475281
- 209711 string characters out of 2773120
+ 13155 strings out of 475281
+ 209698 string characters out of 2773120
  850516 words of memory out of 3000000
- 34360 multiletter control sequences out of 15000+600000
+ 34359 multiletter control sequences out of 15000+600000
  475026 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,12n,77p,1763b,1680s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/Juanesh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Juanesh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Juanesh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Juanesh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Juanesh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Juanesh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Juanesh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Juanesh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Juanesh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Juanesh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Juanesh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Juanesh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/Juanesh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on report.pdf (9 pages, 534790 bytes).
+Output written on report.pdf (8 pages, 534160 bytes).
 PDF statistics:
- 283 PDF objects out of 1000 (max. 8388607)
- 130 named destinations out of 1000 (max. 500000)
+ 279 PDF objects out of 1000 (max. 8388607)
+ 129 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
