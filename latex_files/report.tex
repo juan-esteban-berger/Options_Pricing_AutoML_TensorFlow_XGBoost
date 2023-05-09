@@ -52,6 +52,14 @@ May 8, 2023
 \fancyfoot[C]{\thepage} % center the page number
 \renewcommand{\headrulewidth}{0pt} % remove the header rule
 
+\usepackage[
+backend=biber,
+style=alphabetic,
+sorting=ynt
+]{biblatex}
+
+\addbibresource{bibfile.bib}
+
 \begin{document}
 \maketitle
 
@@ -306,47 +314,7 @@ Even though XGBoost is regarded as the industry standard for regression and clas
 
 This research project contains components for three graduate-level courses at the University of Notre Dame, which are ACMS 80695 - Master's Research Project taught by Prof. Guosheng Fu, CSE 60868 - Neural Networks taught by Prof. Adam Czajka, and ACMS 60890 - Statistical Foundations of Data Science taught by Prof. Xiufan Yu. The Tensorflow Neural Networks were completed for CSE 60868, the XGBoost models were completed for ACMS 60890, and the research methodologies and big data applications in google cloud were performed as part of the ACMS 80695 project. Special thanks is given to all these professors for their teaching and support during the Spring Semester of 2023. The complete GitHub repository for the code in this project can be accessed through the following URL: \textcolor{blue}{\url{https://github.com/juan-esteban-berger/Options_Pricing_with_Neural_Networks_and_Gradient_Boosters}.}
 
-\begin{thebibliography}{99}
-
-\bibitem{ke2019option}
-Alexander Ke and Andrew Yang.
-\newblock Option Pricing with Deep Learning.
-\newblock {\em CS230: Deep Learning, Fall 2019, Stanford University, CA}, 2019.
-
-\bibitem{malliaris1993beating}
-M.~Malliaris and L.~Salchenberger.
-\newblock Beating the best: a neural network challenges the Black-Scholes formula.
-\newblock In {\em Proceedings of 9th IEEE Conference on Artificial Intelligence for Applications}, pages 445--449. IEEE, 1993.
-
-\bibitem{leRoux2001}
-L. J. le Roux and G. S. du Toit.
-\newblock Emulating the Black \& Scholes model with a neural network.
-\newblock {\em Southern African Business Review}, 5(1):54--57, 2001.
-
-\bibitem{mitra2012option}
-S.~K. Mitra.
-\newblock An option pricing model that combines neural network approach and Black-Scholes formula.
-\newblock {\em Global Journal of Computer Science and Technology}, 12(4):1--9, 2012.
-
-\bibitem{can2014nonparametric}
-M. Can and S. Fadda.
-\newblock A nonparametric approach to pricing options using learning networks.
-\newblock {\em Southeast Europe Journal of Soft Computing}, 3(1):, 2014.
-
-\bibitem{ruf2020neural}
-Johannes Ruf and Weiguan Wang.
-\newblock Neural networks for option pricing and hedging: a literature review.
-\newblock {\em Journal of Computational Finance}, 24(4):91--120, 2020.
-\newblock arXiv:1911.05620.
-
-\bibitem{optionmetrics}
-Wharton Research Data Services.
-\newblock IvyDB US by OptionMetrics (optionm\_all).
-\newblock \url{https://wrds.wharton.upenn.edu/}, 2022.
-\newblock Accessed: 2023-04-25.
-
-\end{thebibliography}
-
+\printbibliography
 
 
 \onecolumn % switch to one column
