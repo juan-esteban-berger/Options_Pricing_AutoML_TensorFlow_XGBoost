@@ -24,5 +24,3 @@ The results of this project show that Neural Networks seem to be far superior in
 | XGBoost 5 MAPE      | 193.39  | 264.49  | 228.940 |
 
 This research project contains components for three graduate level courses at the University of Notre Dame, which are ACMS 80695 - Master's Research Project taught by Prof. Guosheng Fu, CSE 60868 - Neural Networks taught by Prof. Adam Czajka, and ACMS 60890 - Statistical Foundations of Data Science taught by Prof. Xiufan Yu. The Tensorflow Neural Networks were completed for CSE 60868, the XGBoost models were completed for ACMS 60890, and the research methodologies and big data applications in google cloud were performed as part of the ACMS 80695 project. A special thanks is given to all these professors for their teaching and support during the Spring Semester of 2023.
-
-***Note for CSE 60868 - Prof. Czajka told me to include in the GitHub Readme for this project that writing the paper could count as the extra-credit portion for the Final Solution submission for that course.***
