@@ -30,7 +30,7 @@ Gradient Boosted Decision Tree with Max Depth of Ten
 Google Cloud AutoML Regressor
 
 The XGBoost models outperformed both TensorFlow and Google’s AutoML Regressor. All of the machine learning models were able to outperform the Black-Scholes model. The XGBoost model with a max depth of ten had the lowest mean absolute error and mean absolute percentage error. The most accurate model, XGBoost with a max depth of ten, can be found on Hugging Face at the following link:
-[https://huggingface.co/models/XGBoost-European-Options](https://huggingface.co/models/XGBoost-European-Options)
+[https://huggingface.co/models/XGBoost-European-Options](https://huggingface.co/models/XGBoost-European-Options).
 
 ## Results
 | Model          | MAE    | MAPE   | Training (s) |
