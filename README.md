@@ -1,6 +1,6 @@
 # Pricing European Options with Google AutoML, TensorFlow, and XGBoost
 
-This repository contains the code and dataset used in the research paper "Pricing European Options with Google AutoML, TensorFlow, and XGBoost" by Juan Esteban Berger, University of Notre Dame.
+This repository contains the code and dataset used in the research paper "Pricing European Options with Google AutoML, TensorFlow, and XGBoost" by Juan Esteban Berger, University of Notre Dame. The full research paper is available on arXiv: https://arxiv.org/abs/2307.00476.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -41,10 +41,6 @@ The XGBoost models outperformed both TensorFlow and Google’s AutoML Regressor.
 | 5 Layer FFNN   | 4.6374 | 243.90 | 3288         |
 | 3 Layer FFNN   | 8.8075 | 323.77 | 3066         |
 | Black Scholes  | 8.0082 | 63.88  | NA           |
-
-## Research Paper
-The full research paper is available on arXiv:
-[https://arxiv.org/abs/submit/4984648](https://arxiv.org/abs/submit/4984648).
 
 ## Conclusion
 The study concludes that machine learning models, especially XGBoost, are effective in pricing European options and outperform the Black-Scholes model. The models were able to learn necessary features from the dataset without being given implied volatility as a feature.
