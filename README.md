@@ -22,12 +22,12 @@ The XGBoost models outperformed both TensorFlow and Google’s AutoML Regressor.
 ## Models
 Six models were implemented in Python for pricing options:
 
-Black-Scholes Model
-Three-Layer Feed-Forward Neural Network
-Five-Layer Feed-Forward Neural Network
-Gradient Boosted Decision Tree with Max Depth of Five
-Gradient Boosted Decision Tree with Max Depth of Ten
-Google Cloud AutoML Regressor
+- Black-Scholes Model
+- Three-Layer Feed-Forward Neural Network
+- Five-Layer Feed-Forward Neural Network
+- Gradient Boosted Decision Tree with Max Depth of Five
+- Gradient Boosted Decision Tree with Max Depth of Ten
+- Google Cloud AutoML Regressor
 
 The XGBoost models outperformed both TensorFlow and Google’s AutoML Regressor. All of the machine learning models were able to outperform the Black-Scholes model. The XGBoost model with a max depth of ten had the lowest mean absolute error and mean absolute percentage error. The most accurate model, XGBoost with a max depth of ten, can be found on Hugging Face at the following link:
 [https://huggingface.co/juan-esteban-berger/XGBoost_European_Options_Pricing_MD_10](https://huggingface.co/juan-esteban-berger/XGBoost_European_Options_Pricing_MD_10).
