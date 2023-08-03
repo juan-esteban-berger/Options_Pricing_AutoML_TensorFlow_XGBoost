@@ -7,7 +7,6 @@ This repository contains the code and dataset used in the research paper "Pricin
 - [Dataset](#dataset)
 - [Models](#models)
 - [Results](#results)
-- [Research Paper](#research-paper)
 - [Conclusion](#conclusion)
 - [Contact](#contact)
 
